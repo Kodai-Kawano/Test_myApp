@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\takadamalab\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\takadamalab\\.nuget\\packages"
+    ]
+  }
+}
